@@ -1,4 +1,4 @@
-## In ShopCrawler, I developed a dynamic ReactJS application that seamlessly scraped and displayed real-time data from various e-commerce stores, revolutionizing online shopping by providing users with up-to-the-minute product information and pricing from multiple sources in one place. 
+In ShopCrawler, I developed a dynamic ReactJS application that seamlessly scraped and displayed real-time data from various e-commerce stores, revolutionizing online shopping by providing users with up-to-the-minute product information and pricing from multiple sources in one place. 
 
 ## Available Scripts
 
